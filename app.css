@@ -1,0 +1,15 @@
+body {
+    background-color:black;
+    font-family: 'Ubuntu Mono', monospace;
+    color: skyblue;
+    text-align: center;
+    
+}
+
+#topheader {
+    font-size: 30px;
+}
+
+#subheader {
+    font-size: 25px;
+}
